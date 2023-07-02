@@ -33,5 +33,5 @@ um formulário, etc.
 #
 
 ### Tecnologias Utilizadas
-[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,prisma,vscode,mysql,github,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,vscode,github,git,postman,react)](https://skillicons.dev)
  
