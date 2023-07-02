@@ -1,24 +1,34 @@
 # trabalho-01-web-back
 ### Trabalho Avaliativo da Matéria de Web Back-End
-### Professor: Igor Neves Faustino
+### Professora: Cláudia Lázara Poiet Sampedro
 ### Aluno: Pedro H. F. Bonini
 ### RA 22.6628-6
 
 Orientação do Trabalho:
+• Desenvolver a aplicação utilizando a biblioteca React e a linguagem de
+programação JavaScript
+• Ter 2 páginas, sendo ao menos uma delas de listagem com paginação
+• Desenvolver a aplicação utilizando conceitos de componentização. Não
+colocar todo o código da aplicação em um único arquivo
+• Obrigatoriamente utilizar as bibliotecas:
+– React Router Dom
+– Axios
+• Caso desejado, utilizar biblitecas de componentes (ChackraUI ou MUI)
+• O projeto não precisa ser uma obra de arte do CSS, mas deve ser ao
+mínimo “bonitinho”
 
-- Criar um projeto em node utilizando a biblioteca express para controle de receitas.
-
-- O projeto deve permitir o cadastro e login de usuarios,
-
-- E permitir que os usuarios possam cadastrar, editar, visualizar e deletar receitas.
-
-- As receitas devem ser atribuidas ao usuario que criou, e só podem ser visualizadas e manipuladas por esse mesmo usuario.
-
-- O sistema deve validar os dados passados para cada rota, e devolver um erro caso todos os valores passados não estejam como o esperado.
-
-- Uma receita deve ter um nome, descrição e tempo de preparo. enquanto um usuario deve ter nome, email e senha (lembrando que o email deve ser unico entre todos os usuarios).
-
-- Será avaliado o retorno de cada rota, bem como o tratamento de erros esperados (ex. receita nao encontrada, usuario não cadastro, etc).
+Tela de listagem
+• Primeira tela a ser acessada no sistema
+• Pode ser uma listagem em forma de tabela ou cards
+• Ter paginação
+• Exibir pelo menos 2 informações contidas no retorno da API
+Segunda tela
+• Para a segunda tela vocês podem implementar como quiserem, pode ser
+outra página de listagem, página de detalhes de alguma coisa, página com
+um formulário, etc.
+• Os requisitos para essa tela são:
+– As informações exibidas devem vir da API
+– Uma dessas informações deve ser uma imagem
 
 #
 
